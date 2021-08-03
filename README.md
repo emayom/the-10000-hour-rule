@@ -1,4 +1,4 @@
-## 1만 시간의 법칙 (the_tenthousand_hour_rule)
+## ⏱ 1만 시간의 법칙 (the_tenthousand_hour_rule)
 
 
 '1만 시간의 법칙'에 따라
