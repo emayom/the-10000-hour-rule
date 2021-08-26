@@ -11,3 +11,6 @@ calculate the number of days you need to invest to become an expert in a field.
 
 ### click 👇
 https://emayom.github.io/the_tenthousand_hour_rule/
+
+### main 
+<img width="582" alt="스크린샷 2021-08-26 오후 12 29 03" src="https://user-images.githubusercontent.com/85545101/130896008-07375ee4-54aa-4cec-951a-7f1e611fa1fb.png">
